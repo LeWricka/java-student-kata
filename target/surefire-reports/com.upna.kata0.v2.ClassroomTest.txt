@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.upna.kata0.v2.ClassroomTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.02 s - in com.upna.kata0.v2.ClassroomTest
